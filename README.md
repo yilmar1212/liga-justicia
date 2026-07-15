@@ -8,3 +8,6 @@ este es un repo de practica para aprender bien las bases y lo mas avanzado de gi
 
 ### Actualizado desde github
 este mensaje fue completamente actualizado desde github
+
+
+hola mundo mi gente
